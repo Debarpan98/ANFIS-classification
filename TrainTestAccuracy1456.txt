@@ -1,0 +1,39 @@
+T1 : Training accuracy : 74.08	79.03	81.68	81.87	82.23
+     Testing accuracy  : 55.22	56.04	56.59	58.24	56.59
+
+T2 : Training accuracy : 73.81	84.71	84.52	84.43	84.71
+     Testing accuracy  : 54.12	60.44	58.79	60.44	59.61
+
+T3 : Training accuracy : 86.54	80.18	87.54	87.82	88.19
+     Testing accuracy  : 70.60	70.33	71.15	72.25	71.70
+
+T4 : Training accuracy : 84.34	85.90	86.45	86.72	87.09	
+     Testing accuracy  : 68.68	71.43	72.80	72.53	71.98
+
+==============================================================
+
+T1 : Training accuracy : 76.28	81.41	83.97	84.16	84.52		AVG. : 	82.068
+     Testing accuracy  : 60.99	61.54	61.54	63.19	62.09			61.87
+
+T2 : Training accuracy : 77.38	83.70	86.72	87.00	87.27			84.414
+     Testing accuracy  : 64.39	60.16	60.71	61.54	61.81			66.81
+
+T3 : Training accuracy : 88.28	88.64	89.10	89.56	89.65			89.046
+     Testing accuracy  : 71.70	72.53	72.53	72.53	72.25			72.262
+
+T4 : Training accuracy : 84.98	85.26	86.63	86.81	87.55			86.246
+     Testing accuracy  : 70.05	69.78	72.80	73.63	75			72.252
+
+===============================================================
+
+T1 : Training : 91.39
+     Testing : 	71.70
+
+T2 : Training :	94.6
+     Testing : 	76.37
+
+T3 : Training : 88.58	
+     Testing :	72.35
+
+T4 : Training : 90.75
+     Testing :  81.87
