@@ -19,4 +19,6 @@ main1.m/ main2.m/ main3.m/ main4.m : These are the main programs for training th
 
 DiscretePlots.m/ AllInOfPlot4368.m : These programs are used for plotting and analysis of the results. 
 
+The .fig files are used to analyze the results
+
 The results show that the precision of the ANFIS classifier to be very high as compared to other generally used classifiers like ANN.
